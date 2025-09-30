@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="deployment.png" alt="SalesForeCast_Image" width="700">
+  <img src="deployment.png" alt="SalesForeCast_Image.jpg" width="700">
 </p>
 💰 Retail Sales Dynamics Forecast
 
