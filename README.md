@@ -34,7 +34,7 @@ Key Methodology Notes:
 - Achievement: This result demonstrates a stable and commercially viable performance level for highly volatile retail time series data, validating the model's predictive reliability.  
 
 📂 Project Structure  
-- [Notebook_Name].ipynb → The main Jupyter/Colab notebook containing all E2E code (Data Prep, Training, Evaluation, Deployment setup).  
+- Retail_Sales_Dynamics_Forecast.ipynb → The main Jupyter/Colab notebook containing all E2E code (Data Prep, Training, Evaluation, Deployment setup).  
 - app.py → The Streamlit code file for the front-end web application.  
 - prophet_final_model_store_1.pkl → The final production model, trained on all historical data.  
 - mape_score.pkl → File storing the final MAPE value for display in the application.  
